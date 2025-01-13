@@ -1,7 +1,7 @@
 import pyautogui # pip install pyautogui
 from PIL import Image, ImageGrab # pip install pillow
 # from numpy import asarray
-import tim
+import time
 
 def hit(key):
     pyautogui.keyDown(key)
