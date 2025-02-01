@@ -1,5 +1,5 @@
 import pyautogui # pip install pyautogui
-from PIL import Image, ImageGrab # pip instapillow
+from PIL import Image, ImageGrab # pip instaLL pillow
 # from numpy import asarray
 import time
 
