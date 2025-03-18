@@ -19,5 +19,5 @@ and a **95% success rate in continuous gameplay**.
 - **Image Processing:** PIL (Python Imaging Library)  
 - **Performance Optimization:** Grayscale image processing, Pixel-based analysis  
 
-![image alt]()
+![image alt](https://github.com/PallaviShirsath23/DinoGameAutomater/blob/1f49b42b0ba768e8440bcfdf97df0d0a27febbcb/Screenshot%202025-03-18%20223348.png)
 
